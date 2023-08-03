@@ -22,11 +22,11 @@ Users should be able to:
 
 Mobile
 <br>
-![mobile](./screenshots/mobile.png)
+![mobile](./screenshots/mobile.png | width="400px")
 
 Mobile active state
 <br>
-![mobile active state](./screenshots/mobile-active-state.png)
+![mobile active state](./screenshots/mobile-active-state.png | width="400px")
 
 Desktop
 <br>
