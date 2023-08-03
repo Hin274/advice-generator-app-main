@@ -27,7 +27,7 @@ body {
 }
 
 .container {
-  max-width: 30rem;
+  max-width: 45rem;
   display: flex;
   flex-direction: column;
   background-color: hsl(217, 19%, 24%);
