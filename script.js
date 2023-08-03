@@ -27,9 +27,4 @@ function displayQuote(data) {
     adviceText.innerHTML = `"${advice}"`
     adviceDiv.appendChild(adviceText)
 
-
-
 }
-
-
-
