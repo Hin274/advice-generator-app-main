@@ -22,7 +22,7 @@ Users should be able to:
 
 Mobile
 <br>
-<img src="./screenshots/mobile.png" width="400px">
+<img src="./screenshots/mobile.png" width="50%">
 
 Mobile active state
 <br>
