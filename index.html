@@ -15,11 +15,13 @@
 
 <body>
   <div class="container">
+    <p id="loading">Getting Advice...</p>
     <div id="adviceID"></div><!-- Advice ID goes here -->
     <div id="advice"></div><!-- Advice text goes here -->
     <img class="divider" src="./images/pattern-divider-mobile.svg" srcset="./images/pattern-divider-mobile.svg 395w, 
       ./images/pattern-divider-desktop.svg 1440w" alt="pattern-divider">
-    <button aria-label="new quote button"><img src="./images/icon-dice.svg" alt="icon-dice"></button>
+    <button aria-label="new quote button" onclick="getQuote()"><img src="./images/icon-dice.svg"
+        alt="icon-dice"></button>
   </div>
   <div class="attribution">
     Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.

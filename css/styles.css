@@ -44,7 +44,8 @@ body {
   letter-spacing: 5px;
 }
 
-#advice {
+#advice,
+#loading {
   color: hsl(193, 38%, 86%);
   font-size: 28px;
   text-align: center;
@@ -67,7 +68,8 @@ button {
   bottom: -1.5rem;
 }
 
-button:active {
+button:active,
+button:hover {
   transition: 0.5s;
   box-shadow: 0px 0px 15px 2px hsl(150, 100%, 66%);
 }
